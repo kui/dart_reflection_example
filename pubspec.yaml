@@ -1,0 +1,4 @@
+name: reflection_example
+description: A reflection sample web application
+dependencies:
+  browser: any
